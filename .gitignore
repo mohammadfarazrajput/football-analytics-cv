@@ -1,3 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# YOLO model weights (large files)
+*.pt
+
+# Video files (too large for git)
+assets/*.mp4
+assets/*.avi
+
+# Output video
+output/*.mp4
+
+# VS Code
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
