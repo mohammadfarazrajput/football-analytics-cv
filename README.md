@@ -4,7 +4,7 @@ A full computer vision pipeline that takes a raw football match video and output
 
 ![Output Preview](output_videos/output_video.avi)
 
-![Output: Player, referee, and ball had been tracked] (output.png)
+![Output: Player, referee, and ball had been tracked](output.png)
 ---
 
 ## What It Does
